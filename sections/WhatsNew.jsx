@@ -22,7 +22,7 @@ const WhatsNew = () => (
 
                 <TypingText title="| Whats's new ?" textStyles="text-center"/>
                 <TitleText
-                    title={<>Whats's new about Metaversus?</>}
+                    title={<>Whats's new about Lisprocoin?</>}
                     textStyles="text-center"
                 />
                 <div className="mt-[48px] flex flex-wrap justify-between gap-[24px]">
